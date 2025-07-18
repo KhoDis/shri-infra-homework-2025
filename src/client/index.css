@@ -13,11 +13,11 @@ p.card-text {
     min-height: 140px;
     display: inline-flex;
     color: #999;
-    background-color: green;
+    background-color: orange;
     align-items: center;
     justify-content: center;
 }
 
 .bg-orange {
-    background-color: green;
+    background-color: orange;
 }
